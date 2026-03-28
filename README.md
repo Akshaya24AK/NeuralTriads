@@ -2,7 +2,7 @@
 ### Transforming News into Structured Story Intelligence
 #### Entry by Neural Triads for ET Gen AI Hackathon
 
-ArcSentry AI is a GenAI-powered system that converts fragmented news articles into a structured, evolving story — helping users understand **what happened, why it matters, and what comes next**.
+ArcSentry AI is a GenAI-powered system that converts fragmented news articles into a structured, evolving story helping users understand **what happened, why it matters, and what comes next**.
 
 ---
 
