@@ -1,46 +1,47 @@
-# 🧠 ArcSentry AI  
+# ArcSentry AI  
 ### Transforming News into Structured Story Intelligence
+#### Entry by Neural Triads for ET Gen AI Hackathon
 
 ArcSentry AI is a GenAI-powered system that converts fragmented news articles into a structured, evolving story — helping users understand **what happened, why it matters, and what comes next**.
 
 ---
 
-## 🚀 Problem
+## Problem
 
 Business and geopolitical news is fragmented across multiple articles.  
 Users must read several sources to understand a single evolving story.
 
-- ⏱️ Time-consuming  
-- 🧠 High cognitive load  
-- 📉 Low clarity  
+- Time-consuming  
+- High cognitive load  
+- Low clarity  
 
 ---
 
-## 💡 Solution
+## Solution
 
 ArcSentry AI transforms multiple news inputs into:
 
-- 📖 Narrative Overview  
-- 🕰️ Visual Timeline  
-- 📉 Sentiment Flow  
-- 🔮 Future Outlook  
-- 💬 Interactive Q&A  
+- Narrative Overview  
+- Visual Timeline  
+- Sentiment Flow  
+- Future Outlook  
+- Interactive Q&A  
 
-👉 From **reading articles → understanding stories**
-
----
-
-## 🎯 Features
-
-- 🧠 AI-powered story synthesis  
-- 🕰️ Visual timeline rendering  
-- 📊 Structured insights (entities, sentiment, future trends)  
-- 💬 Context-aware Q&A  
-- ⚡ Fast and interactive UI  
+From **reading articles → understanding stories**
 
 ---
 
-## 🧩 Architecture
+## Features
+
+- AI-powered story synthesis  
+- Visual timeline rendering  
+- Structured insights (entities, sentiment, future trends)  
+- Context-aware Q&A  
+- Fast and interactive UI  
+
+---
+
+## Architecture
 User (Streamlit UI)
 ↓
 Topic Selection
@@ -59,7 +60,7 @@ Interactive Q&A
 
 --
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Streamlit  
 - **Backend:** Python  
@@ -69,7 +70,7 @@ Interactive Q&A
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 1. User selects a topic  
 2. System loads structured article data  
@@ -84,7 +85,7 @@ Interactive Q&A
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 ### 1. Clone repository
 ```bash
@@ -93,7 +94,7 @@ cd arcsentry-ai
 
 --
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Streamlit  
 - **Backend:** Python  
@@ -103,7 +104,7 @@ cd arcsentry-ai
 
 ---
 
-## 🧪 How It Works
+## How It Works
 
 1. User selects a topic  
 2. System loads structured article data  
@@ -118,7 +119,7 @@ cd arcsentry-ai
 
 ---
 
-## ▶️ Run Locally
+## Run Locally
 
 ### 1. Clone repository
 ```bash
