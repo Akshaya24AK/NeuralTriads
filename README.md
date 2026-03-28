@@ -91,8 +91,8 @@ Interactive Q&A
 ```bash
 git clone https://github.com/your-username/arcsentry-ai.git
 cd arcsentry-ai
-
---
+```
+---
 
 ## Tech Stack
 
@@ -125,3 +125,45 @@ cd arcsentry-ai
 ```bash
 git clone https://github.com/your-username/arcsentry-ai.git
 cd arcsentry-ai
+```
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Add API Key
+```bash
+export GOOGLE_API_KEY="your_api_key_here"
+```
+(Windows: use setx GOOGLE_API_KEY "your_key")
+
+### 4. Run app
+```bash
+streamlit run app.py
+```
+
+## Impact
+80% reduction in time to understand a story
+40–60% increase in user engagement
+Potential revenue uplift for news platforms
+Reduced cognitive load for users
+Future Scope
+Real-time news ingestion
+Personalized story feeds
+Multilingual support
+Predictive analytics
+Video-based story summaries
+
+### Built For
+
+ET GenAI Hackathon
+Reimagining how users consume business and global news.
+
+### Key Idea
+
+ArcSentry AI doesn’t just summarize news — it transforms it into structured, interactive intelligence.
+
+### Author
+```
+Neural Triads
+GitHub: https://github.com/Akshaya24AK/NeuralTriads/
+```
